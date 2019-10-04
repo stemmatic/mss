@@ -1,0 +1,42 @@
+p45/k     0 < p45/k >
+01/k      0 < p45/k 01/k >
+A/k       1 < p45/k 01/k A/k B/k a/k 01/m B/m a/m >
+B/k       0 < p45/k B/k >
+C/k       1 < p45/k 01/k B/k C/k a/k 01/m B/m a/m >
+D/k       1 < p45/k 01/k B/k D/k a/k 01/m B/m a/m >
+E/k       2 < p45/k 01/k A/k B/k C/k D/k E/k W/k a/k b/k d/k k/k 01/m B/m C/m D/m W/m a/m b/m d/m k/m >
+W/k       1 < p45/k 01/k B/k W/k a/k 01/m B/m a/m >
+De/k      3 < p45/k 01/k A/k B/k C/k D/k E/k W/k De/k a/k b/k d/k k/k 01/m B/m C/m D/m E/m W/m a/m b/m d/m k/m >
+Th/k      3 < p45/k 01/k A/k B/k C/k D/k E/k W/k Th/k a/k b/k d/k k/k 01/m B/m C/m D/m E/m W/m a/m b/m d/m k/m >
+Pi/k      3 < p45/k 01/k A/k B/k C/k D/k E/k W/k Pi/k a/k b/k d/k k/k 01/m B/m C/m D/m E/m W/m a/m b/m d/m k/m >
+1/k       5 < p45/k 01/k A/k B/k C/k D/k E/k W/k De/k Th/k Pi/k 1/k 33/k 565/k 700/k 1582/k a/k b/k d/k k/k 01/m B/m C/m D/m E/m W/m De/m Th/m Pi/m 33/m 565/m 700/m 1582/m a/m b/m d/m k/m >
+13/k      6 < p45/k 01/k A/k B/k C/k D/k E/k W/k De/k Th/k Pi/k 1/k 13/k 33/k 565/k 700/k 1582/k a/k b/k d/k k/k 01/m B/m C/m D/m E/m W/m De/m Th/m Pi/m 1/m 33/m 565/m 700/m 1582/m a/m b/m d/m k/m >
+33/k      3 < p45/k 01/k A/k B/k C/k D/k E/k W/k 33/k a/k b/k d/k k/k 01/m B/m C/m D/m E/m W/m a/m b/m d/m k/m >
+209/k     7 < p45/k 01/k A/k B/k C/k D/k E/k W/k De/k Th/k Pi/k 1/k 13/k 33/k 209/k 565/k 700/k 1582/k a/k b/k d/k k/k 01/m B/m C/m D/m E/m W/m De/m Th/m Pi/m 1/m 13/m 33/m 565/m 700/m 1582/m a/m b/m d/m k/m >
+565/k     3 < p45/k 01/k A/k B/k C/k D/k E/k W/k 565/k a/k b/k d/k k/k 01/m B/m C/m D/m E/m W/m a/m b/m d/m k/m >
+700/k     4 < p45/k 01/k A/k B/k C/k D/k E/k W/k De/k Th/k Pi/k 33/k 565/k 700/k 1582/k a/k b/k d/k k/k 01/m B/m C/m D/m E/m W/m De/m Th/m Pi/m 33/m 565/m 1582/m a/m b/m d/m k/m >
+1582/k    3 < p45/k 01/k A/k B/k C/k D/k E/k W/k De/k Th/k Pi/k 33/k 565/k 1582/k a/k b/k d/k k/k 01/m B/m C/m D/m E/m W/m De/m Th/m Pi/m 33/m 565/m a/m b/m d/m k/m >
+a/k       0 < p45/k a/k >
+b/k       1 < p45/k 01/k B/k a/k b/k 01/m B/m a/m >
+d/k       1 < p45/k 01/k B/k a/k d/k 01/m B/m a/m >
+k/k       1 < p45/k k/k >
+01/m      0 < p45/k 01/m >
+B/m       0 < p45/k B/m >
+C/m       1 < p45/k 01/k B/k a/k 01/m B/m C/m a/m >
+D/m       1 < p45/k 01/k B/k a/k 01/m B/m D/m a/m >
+E/m       2 < p45/k 01/k A/k B/k C/k D/k W/k a/k b/k d/k k/k 01/m B/m C/m D/m E/m W/m a/m b/m d/m k/m >
+W/m       1 < p45/k 01/k B/k a/k 01/m B/m W/m a/m >
+De/m      3 < p45/k 01/k A/k B/k C/k D/k E/k W/k a/k b/k d/k k/k 01/m B/m C/m D/m E/m W/m De/m a/m b/m d/m k/m >
+Th/m      3 < p45/k 01/k A/k B/k C/k D/k E/k W/k a/k b/k d/k k/k 01/m B/m C/m D/m E/m W/m Th/m a/m b/m d/m k/m >
+Pi/m      3 < p45/k 01/k A/k B/k C/k D/k E/k W/k a/k b/k d/k k/k 01/m B/m C/m D/m E/m W/m Pi/m a/m b/m d/m k/m >
+1/m       5 < p45/k 01/k A/k B/k C/k D/k E/k W/k De/k Th/k Pi/k 33/k 565/k 700/k 1582/k a/k b/k d/k k/k 01/m B/m C/m D/m E/m W/m De/m Th/m Pi/m 1/m 33/m 565/m 700/m 1582/m a/m b/m d/m k/m >
+13/m      6 < p45/k 01/k A/k B/k C/k D/k E/k W/k De/k Th/k Pi/k 1/k 33/k 565/k 700/k 1582/k a/k b/k d/k k/k 01/m B/m C/m D/m E/m W/m De/m Th/m Pi/m 1/m 13/m 33/m 565/m 700/m 1582/m a/m b/m d/m k/m >
+33/m      3 < p45/k 01/k A/k B/k C/k D/k E/k W/k a/k b/k d/k k/k 01/m B/m C/m D/m E/m W/m 33/m a/m b/m d/m k/m >
+209/m     7 < p45/k 01/k A/k B/k C/k D/k E/k W/k De/k Th/k Pi/k 1/k 13/k 33/k 565/k 700/k 1582/k a/k b/k d/k k/k 01/m B/m C/m D/m E/m W/m De/m Th/m Pi/m 1/m 13/m 33/m 209/m 565/m 700/m 1582/m a/m b/m d/m k/m >
+565/m     3 < p45/k 01/k A/k B/k C/k D/k E/k W/k a/k b/k d/k k/k 01/m B/m C/m D/m E/m W/m 565/m a/m b/m d/m k/m >
+700/m     4 < p45/k 01/k A/k B/k C/k D/k E/k W/k De/k Th/k Pi/k 33/k 565/k 1582/k a/k b/k d/k k/k 01/m B/m C/m D/m E/m W/m De/m Th/m Pi/m 33/m 565/m 700/m 1582/m a/m b/m d/m k/m >
+1582/m    3 < p45/k 01/k A/k B/k C/k D/k E/k W/k De/k Th/k Pi/k 33/k 565/k a/k b/k d/k k/k 01/m B/m C/m D/m E/m W/m De/m Th/m Pi/m 33/m 565/m 1582/m a/m b/m d/m k/m >
+a/m       0 < p45/k a/m >
+b/m       1 < p45/k 01/k B/k a/k 01/m B/m a/m b/m >
+d/m       1 < p45/k 01/k B/k a/k 01/m B/m a/m d/m >
+k/m       1 < p45/k k/m >

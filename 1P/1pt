@@ -41,6 +41,9 @@
       PsAcacC PsCaes PsEusA PsOec SevGab Socr Thdrt ThdtAnc ThphAl
       LK LC LA LS LT KS KB SP SH arm geo eth slav ;
 
+" Suppress versional variants "
+- KS:1 KB:1 ;
+
 " Manuscripts ranking close to A (for command-line selection) "
 = $1 03 1739 04 468 025 81 02 2492 5 1243 1852 1175 1735 01 2344 436 442 044 ;
 = $2 617 323 623 -2514 33 621 ;
@@ -4801,8 +4804,8 @@
 " in fine autem omnes unianimes conpatientes fraternitatis amatores misericordes     humiles    "
 =+ $? P81 ; " lac. 3:8/2-6 "
 [/2-6 |3 εἰς+/τὸ..τέλος |1 +εἰς+ +ἐν+ |2 -δὲ |6 τὸ.δὲ.τέλος/ἐν.τῇ.πίστει ]
-	<a 0?00 $* P81 Antioch PsOec LV LT -KS KB SP SH $V
-	|b 0?10 0142 -KS
+	<a 0000 $* P81 Antioch PsOec LV LT -KS KB SP SH $V
+	|b 0010 0142 -KS
 	|c 1201 629
 	|  1200 vgA
 	|  1100 vgF vgD
